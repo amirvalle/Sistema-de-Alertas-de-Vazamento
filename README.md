@@ -39,7 +39,4 @@ namespace GasLeakAlert
             }
         }
 
-        // ... (outros métodos aqui)
-    }
-}
 
