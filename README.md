@@ -57,7 +57,7 @@ Campo no Código	Descrição
 "alerta@empresa.com"	E-mail do destinatário do alerta.
 
 📋 Pré-requisitos
-.NET Framework ou .NET Core instalado
+.NET Framework ou .NET Core instalado (Versão 8.0)
 
 Conta Gmail configurada para envios
 
