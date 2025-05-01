@@ -24,7 +24,7 @@ namespace GasLeakAlert
     {
         static void Main(string[] args)
         {
-            // Configurações do sistema
+
             int limiteSeguro = 300;
             int intervaloLeitura = 5000;
 
